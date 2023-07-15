@@ -1,0 +1,18 @@
+
+Mientras la Hormiga trabajaba duro\n para juntar comida para el inviernos\n la Cigarra de divertia...
+La Cigarra habla con la Hormiga para \n convencerla de que se divierta \n y deje de trabajar, La hormiga se niega
+La cigarra insiste \n (Rojo) Ignorar a la cigarra \n (Verde) Divertirse con la cigarra
+La hormiga le dice a la cigarra que trabaje \n (Rojo) Ignorar a la hormiga \n (Verde) Convencer a la cigarra a que trabaje
+Llega el invierno y la cigarra siente hambre
+Va a pedirle ayuda a la hormiga
+La hormiga se niega y le dice que existe tiempo \n para trabajar y tiempo para divertirse
+La cigarra muere \n fin
+Ambos comienzan a juntar comida \n para el invierno
+Ambos sobreviven al invierno \n sin problema \n fin
+La hormiga se divierte \n con la cigarra
+Pasa el tiempo y siguen \n sin trabajar...
+Llega el invierno y ambos \n mueren de hambre \n fin
+
+
+
+
